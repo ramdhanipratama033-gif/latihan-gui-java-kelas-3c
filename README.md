@@ -28,7 +28,10 @@ Repositori ini berisi hasil latihan/eksplorasi **Graphical User Interface (GUI)*
    * **Kelas Adaptor `MouseAdapter`**: Mengganti metode `mouseClicked(MouseEvent e)` pada `JList` agar klik pada judul novel langsung menampilkan isi ceritanya di `JTextArea`.
 
 ## Tangkapan Layar
-Screenshot 2026-11-24 063847.png
-Screenshot 2026-11-24 063929.png
-Screenshot 2026-11-24 063939.png
-Screenshot 2026-11-24 063947.png
+![Tampilan 1](Screenshot%202026-11-24%20063847.png)
+
+![Tampilan 2](Screenshot%202026-11-24%20063929.png)
+
+![Tampilan 3](Screenshot%202026-11-24%20063939.png)
+
+![Tampilan 4](Screenshot%202026-11-24%20063947.png)
